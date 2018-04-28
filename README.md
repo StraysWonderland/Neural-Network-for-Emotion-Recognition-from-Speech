@@ -1,4 +1,4 @@
-# Neural-Network-for-Emotion-Recognition-from-Speech
+# Neural Network for Emotion Recognition from Speech
 
 Mono- and cross-lingual emotion classification in recorded speech through a convolutional neural network.
 
