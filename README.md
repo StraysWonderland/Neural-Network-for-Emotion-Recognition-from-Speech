@@ -1,7 +1,9 @@
 # Neural Network for Emotion Recognition from Speech
 
+
 Mono- and cross-lingual emotion classification in recorded speech through a convolutional neural network.
 
+*Read the paper [here](https://github.com/StraysWonderland/Neural-Network-for-Emotion-Recognition-from-Speech/blob/master/Paper/paper_cagritasci_emotionrecognition.pdf)*
 ### Data
 This model was trained and tested on a collective dataset, 
 consisting of the english [IEMOCAP](https://sail.usc.edu/iemocap/)
