@@ -8,6 +8,8 @@ Mono- and cross-lingual emotion classification in recorded speech through a conv
 This model was trained and tested on a collective dataset, 
 consisting of the english [IEMOCAP](https://sail.usc.edu/iemocap/)
 and the french [RECOLA](http://diuf.unifr.ch/diva/recola/index.html) datasets.
+These datasets need to be downloaded manually and processed via OpenSMILE using the configuration file in the input folder!
+Afterwards transform them to binaries using the write ```binaries.py```
 
 ### Hyperparameters
 Parameter| Value  
